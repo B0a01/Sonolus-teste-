@@ -1,1 +1,11 @@
-
+{
+  "title": "Meu Servidor",
+  "description": "Agora vai funcionar!",
+  "buttons": [],
+  "levels": { "items": [] },
+  "skins": { "items": [] },
+  "backgrounds": { "items": [] },
+  "effects": { "items": [] },
+  "particles": { "items": [] },
+  "engines": { "items": [] }
+}
